@@ -1,0 +1,214 @@
+body {
+	position: relative;
+	padding-bottom: 70px;
+	font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+	font-weight: 100;
+	font-style: normal;
+	font-size: 36px;
+	letter-spacing: -1px;
+}
+
+h4 {
+	font-weight: 100;
+	font-style: italic;
+	font-size: 22px;
+}
+
+h5 {
+	font-weight: 300;
+	font-style: normal;
+	font-size: 16px;
+}
+
+p {
+	font-weight: 300;
+	font-style: normal;
+	font-size: 14px;
+}
+
+/* Menu + navigation bar */
+.nav-custom {
+	background: #fff;
+	border-bottom: 0;
+	-webkit-box-shadow: 0 0 0 0 rgba(0,0,0,0);
+	box-shadow: 0 0 0 0 rgba(0,0,0,0);
+}
+
+.toggle-custom {
+	background: #fff;
+	border-radius: 0px;
+}
+
+.navbar .nav > .active > a {
+	background: #fff;
+	border-bottom: 3px solid #999;
+	-webkit-box-shadow: 0 0 0 0 rgba(0,0,0,0);
+	box-shadow: 0 0 0 0 rgba(0,0,0,0);
+}
+
+/* Slider */
+#slider {
+	display: block;
+	background: #ff9c9c;
+	height: 540px;
+	padding-top: 40px;
+}
+
+#slider img {
+	margin: 0 auto;
+}
+
+/* Skill section */
+#skill {
+	display: block;
+}
+
+/* Headline */
+#skill h1 {
+	margin: 0px;
+	padding-top: 40px;
+	padding-bottom: 0px;
+	font-weight: 700;
+	font-size: 48px;
+	letter-spacing: -1px;
+}
+
+#skill h2.text-center {
+	margin: 0px;
+	padding-top: 6px;
+	padding-bottom: 0px;
+	font-style: italic;
+}
+
+/* Icons + descriptions */
+.icons {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.icons a:nth-child(even) {
+	display: block;
+	padding-top: 16px;
+	font-weight: 300;
+	color: #666;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+/* Skill boxes - 3x */
+.skill-dsgn {
+	padding: 30px 60px;
+	height: 400px;
+	background: #c1e9ed;
+}
+
+.skill-dsgn div {
+	width: 20px;
+	height: 1px;
+	margin: 16px 0 16px 0;
+	background: #666;
+}
+
+.skill-ux {
+	padding: 30px 60px;
+	height: 400px;
+	background: #b6dce0;
+}
+
+.skill-ux div {
+	width: 20px;
+	height: 1px;
+	margin: 16px 0 16px 0;
+	background: #666;
+}
+
+.skill-dev {
+	padding: 30px 60px;
+	height: 400px;
+	background: #a9cdd1;
+}
+
+.skill-dev div {
+	width: 20px;
+	height: 1px;
+	margin: 16px 0 16px 0;
+	background: #666;
+}
+
+/* Clients boxes - 2x */
+.clients-direct {
+	padding: 30px 60px;
+	height: 600px;
+	background: #eae5d2;
+}
+
+.clients-direct div {
+	width: 20px;
+	height: 1px;
+	margin: 16px 0 16px 0;
+	background: #666;
+}
+
+.clients-agency {
+	padding: 30px 60px;
+	height: 600px;
+	background: #f6f1de;
+}
+
+.clients-agency div {
+	width: 20px;
+	height: 1px;
+	margin: 16px 0 16px 0;
+	background: #666;
+}
+
+/* Education */
+.panel-custom {
+	background: #767474;
+	border: 0px;
+	border-radius: 0;
+}
+
+.panel-heading {
+	height: 100px;
+	padding-top: 30px;
+}
+
+.panel h4 {
+	padding-left: 60px;
+	font-size: 36px;
+	font-style: normal;
+	color: #fff;
+}
+
+.panel h4 a {
+	text-decoration: none;
+}
+
+.panel-custom-txt {
+	background: #767474;
+	color: #f0f0f0;
+}
+
+.panel-body {
+	padding-left: 60px;
+	padding-right: 60px;	
+}
+
+.page-section-title {
+	padding-left: 60px;
+}
+
+/* Contact button */
+.btn-custom {
+	background: #fff;
+	border: 1px solid #666;
+}
+
+
+
+
+
